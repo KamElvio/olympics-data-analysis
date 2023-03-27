@@ -6,3 +6,4 @@ With so much data available on the Olympics, there are countless opportunities f
 In this data analysis project, we will explore various aspects of the Olympics, including overall medal counts, participation trends, and popular sports. Using data visualization and statistical techniques, we will delve into the data to uncover meaningful insights and trends.
 
 Through this analysis, we hope to gain a deeper understanding of the Olympics and the role it plays in international sports, as well as the factors that contribute to success in this competitive arena.
+![earth-1585817_1280](https://user-images.githubusercontent.com/101565190/227904564-ef7d1c30-e286-46e6-9976-49647a818c22.jpg)
