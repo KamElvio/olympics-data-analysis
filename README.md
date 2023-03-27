@@ -7,3 +7,22 @@ In this data analysis project, we will explore various aspects of the Olympics, 
 
 Through this analysis, we hope to gain a deeper understanding of the Olympics and the role it plays in international sports, as well as the factors that contribute to success in this competitive arena.
 ![earth-1585817_1280](https://user-images.githubusercontent.com/101565190/227904564-ef7d1c30-e286-46e6-9976-49647a818c22.jpg)
+
+## Requirement Software & Libraries 
+Jupyter Notebook
+
+PyCharm
+
+streamlit~=1.20.0
+
+pandas~=1.5.3
+
+plotly~=5.13.1
+
+scipy~=1.10.1
+
+seaborn~=0.12.2
+
+matplotlib~=3.7.1
+
+numpy~=1.24.2
